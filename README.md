@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Welcome / 欢迎
 
-<!--
-**LFMcxixif/LFMcxixif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+每个梦想，都值得灌溉。
 
-Here are some ideas to get you started:
+Every dream is worth nurturing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats / 统计
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-z3io.vercel.app/api?username=LFMcxixif&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-z3io.vercel.app/api/top-langs/?username=LFMcxixif&layout=compact&langs_count=8&card_width=400" />
+</a>
